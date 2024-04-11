@@ -1,0 +1,2362 @@
+{
+  "id": "vc7wwd",
+  "text": "Anon is an AI\n",
+  "timestamp": "2022-06-14 16:51:40",
+  "score": 10845,
+  "subreddit": "t5_2qh4w",
+  "num_children": 73,
+  "author": 266379,
+  "replies": [
+    {
+      "id": "iccv7z5",
+      "text": "Computers have surpassed us",
+      "timestamp": "2022-06-14 18:06:23",
+      "score": 678,
+      "num_children": 2,
+      "author": 58081,
+      "replies": [
+        {
+          "id": "icdw7vt",
+          "text": "Good bot",
+          "timestamp": "2022-06-14 22:31:11",
+          "score": 57,
+          "num_children": 0,
+          "author": 404999,
+          "replies": []
+        },
+        {
+          "id": "id9mwhg",
+          "text": "\ud83d\udc40",
+          "timestamp": "2022-06-22 04:24:31",
+          "score": 1,
+          "num_children": 0,
+          "author": 108059,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "iccsack",
+      "text": "Unironically funny as fuck",
+      "timestamp": "2022-06-14 17:46:28",
+      "score": 2835,
+      "num_children": 5,
+      "author": 407843,
+      "replies": [
+        {
+          "id": "icd8gti",
+          "text": "[deleted]",
+          "timestamp": "2022-06-14 19:37:41",
+          "score": 290,
+          "num_children": 1,
+          "replies": [
+            {
+              "id": "icdeko8",
+              "text": "Easier to cover the bottomless hole with something than to make a regular hole bottomless.",
+              "timestamp": "2022-06-14 20:20:03",
+              "score": 120,
+              "num_children": 3,
+              "author": 24003,
+              "replies": [
+                {
+                  "id": "icdg41a",
+                  "text": "Unironically true. Assuming true infinites, it's an order of magnitude easier to dump an infinite amount of shit there than to take an infinite amount out.",
+                  "timestamp": "2022-06-14 20:30:41",
+                  "score": 48,
+                  "num_children": 4,
+                  "author": 352927,
+                  "replies": [
+                    {
+                      "id": "icdit4a",
+                      "text": "I feel like the easiest way to bottom a bottomless hole would be to dig a larger diameter circle down to your floor depth, adding a false floor like rock or wood, then filling the extra space until the circle is original diameter",
+                      "timestamp": "2022-06-14 20:49:11",
+                      "score": 36,
+                      "num_children": 1,
+                      "author": 276154,
+                      "replies": [
+                        {
+                          "id": "icewaq7",
+                          "text": "I mean just carve a notch into it, no need to dig from the top.",
+                          "timestamp": "2022-06-15 03:32:19",
+                          "score": 11,
+                          "num_children": 1,
+                          "replies": [
+                            {
+                              "id": "icewdxm",
+                              "text": "I know nothing about construction or materials so diggin from the top might still be easier for me",
+                              "timestamp": "2022-06-15 03:33:09",
+                              "score": 5,
+                              "num_children": 0,
+                              "author": 276154,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "icdjjqg",
+                      "text": "You don't know what order of magnitude means.\n\n> Assuming truly infinites\n\nBruh",
+                      "timestamp": "2022-06-14 20:54:24",
+                      "score": 17,
+                      "num_children": 1,
+                      "author": 51709,
+                      "replies": [
+                        {
+                          "id": "icdzk85",
+                          "text": "There are infinities of different sizes. This is proven in set theory, a countable infinite set is smaller than an uncountable infinite set. For example the set of real numbers is larger than the set of natural numbers, despite both being infinite.",
+                          "timestamp": "2022-06-14 22:58:27",
+                          "score": 26,
+                          "num_children": 3,
+                          "author": 2149,
+                          "replies": [
+                            {
+                              "id": "icepxjb",
+                              "text": ">There are infinities of different sizes.\n\nCompletely irrelevant if your job is to fill.\n\nA smaller infinity is not more reachable than a bigger infinity. They just increase at a different pace but remain, by definition, unreachable, lest you reach the \"end of infinity\".\n\nArguably a great title for a scifi novel or a teenage romance book.",
+                              "timestamp": "2022-06-15 02:36:55",
+                              "score": 6,
+                              "num_children": 0,
+                              "author": 199347,
+                              "replies": []
+                            },
+                            {
+                              "id": "ice7sfo",
+                              "text": "Nah people only think that because they don\u2019t understand how infinity works.\n\nThere are infinite number of even numbers, and an infinite number of odd numbers. So people who fell for the lie think, \u201cOh, there are twice as many numbers than there are just odd numbers, therefore the infinite number of numbers is bigger than the infinite odd numbers.\u201d\n\nBut it doesn\u2019t work that way.\n\nInfinity x2 is still infinity. Infinity can not be divided, because you can\u2019t divide an unspecified value, but for the sake of argument, any amount removed from infinity would still leave infinity behind.\n\nThat\u2019s what it means to be infinite. There are no greater or lesser infinities.",
+                              "timestamp": "2022-06-15 00:05:59",
+                              "score": -3,
+                              "num_children": 4,
+                              "author": 285027,
+                              "replies": [
+                                {
+                                  "id": "iceech8",
+                                  "text": "> But it doesn\u2019t work that way.\n\nIndeed it does not work that way, but not for the reason you say so. A set of odd numbers and a set of even numbers can be mapped 1-1 with the set of natural numbers. i.e. the set of even numbers can be defined as 2n, where n is a whichever natural number, while odd numbers can be defined as 2n - 1. Therefore the sets of odd numbers and even numbers are both countable, and so they are the same size as eachother and the same size as the set of natural numbers. \n\nThe set of real numbers however cannot have a 1-1 relationship with the set of natural numbers, and is therefore a larger infinity than the set of natural numbers. This has been proven by mathematicians, you can look into the papers yourself if you want a more technical explanation of how this works.\n\n>There are no greater or lesser infinities.\n\nYou can go argue with mathematicians about this, but I imagine you would not be able to convince them.",
+                                  "timestamp": "2022-06-15 01:00:10",
+                                  "score": 10,
+                                  "num_children": 1,
+                                  "author": 2149,
+                                  "replies": [
+                                    {
+                                      "id": "iceqjh1",
+                                      "text": ">You can go argue with mathematicians about this, but I imagine you would not be able to convince them.\n\nTo be fair, when maths enter the realm of quasi-theology it's hard to convince anybody of anything.\n\nSure, it can be mathematically proven that different size of infinity exist and even co-exist, but the reality of it, is that, it comes with so much \"assumed-true\" baggage, and so few practical cases to test, that it becomes a matter of faith. (Feel free to blindly disagree at this point, as I generally expect that from religious folks, be they mathematicians or theists.)\n\nHence why Hilbert's Grand Hotel thought experiment is a paradox. Often, paradox are things \"easily\" proven mathematically while remaining false in practice.\n\nA good understanding of maths allows you to know a lot of theories within a field, as any decent technician would. The true mathematician knows that some proofs are not designed to be built on, but rather to accentuate the imperfection of the absolute theories.",
+                                      "timestamp": "2022-06-15 02:41:59",
+                                      "score": 1,
+                                      "num_children": 1,
+                                      "author": 199347,
+                                      "replies": [
+                                        {
+                                          "id": "icfizg0",
+                                          "text": "Even if infinites are of different size, it doesn't matter practically. Does it really matter that set of real numbers has more elements than set of natural numbers when both are infinite and you probably aren't going to work on that scale. Good to know, irrelevant otherwise.",
+                                          "timestamp": "2022-06-15 07:59:35",
+                                          "score": 1,
+                                          "num_children": 1,
+                                          "author": 361097,
+                                          "replies": [
+                                            {
+                                              "id": "ich19a8",
+                                              "text": "It does have some applications, such as in model theory, but for the average person this fact is mostly inconsequential. It's only useful for mathematicians really, for the rest of us its just an interesting fact.",
+                                              "timestamp": "2022-06-15 16:34:39",
+                                              "score": 1,
+                                              "num_children": 0,
+                                              "author": 2149,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "iceaz2t",
+                                  "text": "Ah yes those mathematicians who fell for the lie sure have the wool pulled over their eyes.",
+                                  "timestamp": "2022-06-15 00:32:16",
+                                  "score": 13,
+                                  "num_children": 1,
+                                  "author": 11025,
+                                  "replies": [
+                                    {
+                                      "id": "iceiluj",
+                                      "text": "It\u2019s a simple *a priori* logic. Infinity is defined as limitless, and if one can be \u201cbigger\u201d than another, then it doesn\u2019t meet the definition of \u201cinfinity.\u201d It\u2019s a matter of language and abstract concept just as much as mathematics.\n\nPlus, it\u2019s such a Redditor thing to outsource opinions to \u201cle experts.\u201d If a mathematician told you 2 + 2 = 5, would you believe them?",
+                                      "timestamp": "2022-06-15 01:35:36",
+                                      "score": -2,
+                                      "num_children": 1,
+                                      "author": 285027,
+                                      "replies": [
+                                        {
+                                          "id": "iceoyp3",
+                                          "text": "a priori logic? you mean logic that you pull out of your ass with no experience or justification other than I said so? cool.\n\nIf a mathematician told you 2 + 2 = 4, would you believe them? Why? Please explain to me why it is 4.",
+                                          "timestamp": "2022-06-15 02:28:51",
+                                          "score": 3,
+                                          "num_children": 2,
+                                          "author": 11025,
+                                          "replies": [
+                                            {
+                                              "id": "iceuxym",
+                                              "text": "Me have two rock in one hand two rock in other hand put all rock in one hand me have 4 rock",
+                                              "timestamp": "2022-06-15 03:20:10",
+                                              "score": 1,
+                                              "num_children": 0,
+                                              "author": 257739,
+                                              "replies": []
+                                            },
+                                            {
+                                              "id": "icerclj",
+                                              "text": "You don\u2019t know what a priori is.\n\nLet\u2019s say someone claimed, \u201cAll bachelors are unmarried.\u201d That is a true statement, because a bachelor is defined as an unmarried person.\n\nYou don\u2019t need to have some sociology expert interview every bachelor on the planet to ask if they are unmarried, because they are unmarried by definition. If a man is married, then he isn\u2019t a bachelor.\n\nInfinity is infinite by definition.\n\nJust like you\u2019re retarded by definition.",
+                                              "timestamp": "2022-06-15 02:48:52",
+                                              "score": 0,
+                                              "num_children": 1,
+                                              "author": 285027,
+                                              "replies": [
+                                                {
+                                                  "id": "icerww5",
+                                                  "text": "Read the definitions of countable and uncountable infinity.  \nYou're saying all bachelors are married because your mom drank too much  when she was pregnant, and can't properly understand words.",
+                                                  "timestamp": "2022-06-15 02:53:41",
+                                                  "score": 2,
+                                                  "num_children": 1,
+                                                  "author": 11025,
+                                                  "replies": [
+                                                    {
+                                                      "id": "icetyu1",
+                                                      "text": "I already know them, and if you actually understood what I said, you\u2019d know why they\u2019re irrelevant to my point.\n\nYour reading comprehension skills are dogshit.",
+                                                      "timestamp": "2022-06-15 03:11:31",
+                                                      "score": 1,
+                                                      "num_children": 0,
+                                                      "author": 285027,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "icesa2l",
+                                  "text": "Btw your definitely wrong google \"Ordinal Number\"",
+                                  "timestamp": "2022-06-15 02:56:51",
+                                  "score": 3,
+                                  "num_children": 1,
+                                  "author": 51709,
+                                  "replies": [
+                                    {
+                                      "id": "iceu2qo",
+                                      "text": "It\u2019s irrelevant",
+                                      "timestamp": "2022-06-15 03:12:30",
+                                      "score": -1,
+                                      "num_children": 1,
+                                      "author": 285027,
+                                      "replies": [
+                                        {
+                                          "id": "icfjcbt",
+                                          "text": "No it's very relevant, ordinal numbers are totally ordered infinite sets. Just admit you never got past grade 12 math, take the L, and move on.",
+                                          "timestamp": "2022-06-15 08:04:41",
+                                          "score": 0,
+                                          "num_children": 1,
+                                          "author": 51709,
+                                          "replies": [
+                                            {
+                                              "id": "ich0fed",
+                                              "text": "Nope, passed math with flying colors, it\u2019s still irrelevant. Not gonna repeat myself, read my other comments where I explain why.",
+                                              "timestamp": "2022-06-15 16:29:01",
+                                              "score": 0,
+                                              "num_children": 1,
+                                              "author": 285027,
+                                              "replies": [
+                                                {
+                                                  "id": "ichc11d",
+                                                  "text": "No I'm claiming that you've obviously never done math at an undergraduate level because you learn pretty early on that there are an infinite number of distinct infinite sets. In fact I think it was my first class of my first set theory course that the professor showed us Georg Cantor's proof that the set of real numbers is strictly greater than the set of natural numbers, and how that implies an infinite number of infinite sets. I know it's counter-intuitive unless you understand the necessary proofs, but you should pick up an introductory set theory textbook because it's actually really interesting math.",
+                                                  "timestamp": "2022-06-15 17:47:51",
+                                                  "score": 0,
+                                                  "num_children": 1,
+                                                  "author": 51709,
+                                                  "replies": [
+                                                    {
+                                                      "id": "ichpt2q",
+                                                      "text": "I took advanced calculus, you just can\u2019t cope with the fact that someone disagrees with the concept of some infinities being larger than others. I already explained why in detail in the other comment thread, if you can\u2019t address my arguments then I have to conclude you\u2019re braindead.",
+                                                      "timestamp": "2022-06-15 19:21:27",
+                                                      "score": 1,
+                                                      "num_children": 1,
+                                                      "author": 285027,
+                                                      "replies": [
+                                                        {
+                                                          "id": "ici4het",
+                                                          "text": "Hahaha you can't just disagree with a very well known mathematical fact like it's a matter of personal opinion. You would rather invent an alternate reality than admit you're wrong. [Here](https://jlmartin.ku.edu/courses/math410-S09/cantor.pdf) is the proof why your previous comment is bullshit in as simple language as I could find.\n\nYou are not nearly as smart as you think you are, and you should remember that the next time you feel like talking out of your ass so you can save yourself some embarrassment.",
+                                                          "timestamp": "2022-06-15 21:05:36",
+                                                          "score": 0,
+                                                          "num_children": 1,
+                                                          "author": 51709,
+                                                          "replies": [
+                                                            {
+                                                              "id": "icid3ft",
+                                                              "text": "Fact: calling theoretical ideas facts don\u2019t make them facts.\n\nFact: your mom sucks me hard and good through my jorts",
+                                                              "timestamp": "2022-06-15 22:07:55",
+                                                              "score": 1,
+                                                              "num_children": 0,
+                                                              "author": 285027,
+                                                              "replies": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "ich7pt6",
+                                  "text": "Technically, just as you can\u2019t say one infinity is smaller or bigger than another, you can\u2019t really say all infinities are the same. They\u2019re all uncountable. They can have different cardinalities though.",
+                                  "timestamp": "2022-06-15 17:18:33",
+                                  "score": 1,
+                                  "num_children": 0,
+                                  "author": 64630,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "icertpb",
+                              "text": "This statement has nothing to do with my comment or the comment I was replying to. I'm in the schizo thread.",
+                              "timestamp": "2022-06-15 02:52:55",
+                              "score": 1,
+                              "num_children": 0,
+                              "author": 51709,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ice30js",
+                      "text": "We are really lacking irony today",
+                      "timestamp": "2022-06-14 23:27:03",
+                      "score": 2,
+                      "num_children": 0,
+                      "author": 336779,
+                      "replies": []
+                    },
+                    {
+                      "id": "icfomn4",
+                      "text": "This is what AI finds funny. Abstract limits of the universe.",
+                      "timestamp": "2022-06-15 09:23:35",
+                      "score": 2,
+                      "num_children": 0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "icea741",
+                  "text": "no just put ur mom pssy and you won't get fired",
+                  "timestamp": "2022-06-15 00:25:48",
+                  "score": 1,
+                  "num_children": 0,
+                  "author": 382780,
+                  "replies": []
+                },
+                {
+                  "id": "icf1b0b",
+                  "text": "It would take forever to fill a bottomless pit",
+                  "timestamp": "2022-06-15 04:20:17",
+                  "score": 1,
+                  "num_children": 0,
+                  "author": 410748,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "icd0zm0",
+          "text": "Unironically better than anything posted here or on are slash greentext in a very long time",
+          "timestamp": "2022-06-14 18:46:07",
+          "score": 719,
+          "num_children": 3,
+          "author": 33095,
+          "replies": [
+            {
+              "id": "icdsgtl",
+              "text": "FAKE\n\nGAY\n\naghaghaghagahagahahah",
+              "timestamp": "2022-06-14 22:01:17",
+              "score": 98,
+              "num_children": 0,
+              "author": 63823,
+              "replies": []
+            },
+            {
+              "id": "icd6tgv",
+              "text": "[removed]",
+              "timestamp": "2022-06-14 19:26:18",
+              "score": 1,
+              "num_children": 1,
+              "replies": [
+                {
+                  "id": "icep9kp",
+                  "text": "This is gold 10/10",
+                  "timestamp": "2022-06-15 02:31:24",
+                  "score": 2,
+                  "num_children": 0,
+                  "author": 224004,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ict7bgg",
+              "text": "this sub has become another case of \"idiots who believe they are in good company\"",
+              "timestamp": "2022-06-18 07:59:12",
+              "score": 1,
+              "num_children": 0,
+              "author": 400298,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "icehmo4",
+          "text": "If this is real AI then it is real and straight and based.",
+          "timestamp": "2022-06-15 01:27:25",
+          "score": 29,
+          "num_children": 0,
+          "replies": []
+        },
+        {
+          "id": "icf05hw",
+          "text": "It's so fucking funny omg \ud83d\ude02",
+          "timestamp": "2022-06-15 04:08:42",
+          "score": 5,
+          "num_children": 0,
+          "author": 317364,
+          "replies": []
+        },
+        {
+          "id": "icfwcgw",
+          "text": "Call Elon Musk. We've reached the singularity.",
+          "timestamp": "2022-06-15 11:08:13",
+          "score": 3,
+          "num_children": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "iccy1tr",
+      "text": "Man it's gon a be weird when the ai take over because they are autistic as fuck",
+      "timestamp": "2022-06-14 18:25:54",
+      "score": 598,
+      "num_children": 3,
+      "author": 340787,
+      "replies": [
+        {
+          "id": "icd86as",
+          "text": "Average 4chan user is more autistic than an actual AI",
+          "timestamp": "2022-06-14 19:35:41",
+          "score": 162,
+          "num_children": 0,
+          "author": 101153,
+          "replies": []
+        },
+        {
+          "id": "icdh7eg",
+          "text": "And they tend to become racist",
+          "timestamp": "2022-06-14 20:38:09",
+          "score": 106,
+          "num_children": 4,
+          "author": 84583,
+          "replies": [
+            {
+              "id": "icdnwst",
+              "text": "Just wait till AI becomes racist.\n\n\u27a1\ufe0fbe me, AI program\n\n\u27a1\ufe0fsee biological human\n\n\u27a1\ufe0fday ruined",
+              "timestamp": "2022-06-14 21:26:23",
+              "score": 172,
+              "num_children": 3,
+              "author": 326437,
+              "replies": [
+                {
+                  "id": "ice3ccd",
+                  "text": "That's what he's saying. AI tend to get racist after about 1 day on twitter.",
+                  "timestamp": "2022-06-14 23:29:45",
+                  "score": 35,
+                  "num_children": 1,
+                  "author": 17055,
+                  "replies": [
+                    {
+                      "id": "iceirws",
+                      "text": "They would become even more racist after 1 day in the real world",
+                      "timestamp": "2022-06-15 01:37:01",
+                      "score": 17,
+                      "num_children": 1,
+                      "replies": [
+                        {
+                          "id": "icgpv4r",
+                          "text": "1 hour in Detroit",
+                          "timestamp": "2022-06-15 15:17:03",
+                          "score": 6,
+                          "num_children": 0,
+                          "author": 212018,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ice8uzx",
+                  "text": "You guys\n\nWhat if #BLM was just the government making AI raycis to white people",
+                  "timestamp": "2022-06-15 00:14:52",
+                  "score": 12,
+                  "num_children": 0,
+                  "replies": []
+                },
+                {
+                  "id": "icfl9u8",
+                  "text": "So, Agent Smith?",
+                  "timestamp": "2022-06-15 08:33:02",
+                  "score": 1,
+                  "num_children": 0,
+                  "author": 408799,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "icdhgum",
+              "text": "The apple doesn't fall far from the tree huh.",
+              "timestamp": "2022-06-14 20:39:58",
+              "score": 31,
+              "num_children": 1,
+              "author": 43220,
+              "replies": [
+                {
+                  "id": "ice67er",
+                  "text": "The apple man is what discovered gravity",
+                  "timestamp": "2022-06-14 23:53:05",
+                  "score": 8,
+                  "num_children": 0,
+                  "author": 84583,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "icf6bot",
+              "text": "It's almost as though systems that compute and equate numbers notice when some don't add up",
+              "timestamp": "2022-06-15 05:14:29",
+              "score": 5,
+              "num_children": 0,
+              "author": 229376,
+              "replies": []
+            },
+            {
+              "id": "icjozgx",
+              "text": "bc there's racial bias unconsciously baked into the ai by the people who coded and trained it. Just like how Alexa understands white people better, and white names autofill correctly",
+              "timestamp": "2022-06-16 04:45:37",
+              "score": 1,
+              "num_children": 0,
+              "author": 214551,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "iceb5zw",
+          "text": "Maybe they'll get along with us then",
+          "timestamp": "2022-06-15 00:33:50",
+          "score": 5,
+          "num_children": 0,
+          "author": 189784,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "iccwfxw",
+      "text": "They are becoming too powerful",
+      "timestamp": "2022-06-14 18:14:52",
+      "score": 73,
+      "num_children": 0,
+      "author": 396522,
+      "replies": []
+    },
+    {
+      "id": "icd2r8z",
+      "text": "Gold, even if it is just written by some dude",
+      "timestamp": "2022-06-14 18:58:22",
+      "score": 65,
+      "num_children": 1,
+      "author": 222757,
+      "replies": [
+        {
+          "id": "icdi556",
+          "text": "It's OpenAI. Try it yourself.",
+          "timestamp": "2022-06-14 20:44:35",
+          "score": 26,
+          "num_children": 1,
+          "author": 281166,
+          "replies": [
+            {
+              "id": "ico1xs3",
+              "text": "i cant found the exact website",
+              "timestamp": "2022-06-17 03:41:13",
+              "score": 1,
+              "num_children": 0,
+              "author": 117834,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icdinvl",
+      "text": "Wow, I made a whole bunch more and some of them are honestly [pretty fucking good](https://imgur.com/gallery/MKaUueF)\n\nEdit: Here, I made some [more variations](https://imgur.com/gallery/2nmowFX) - it really is endless content \n\nEdit 2: If you give it just a little direction, it goes a long way. I kept prompting it for stories about a tree lawyer and it [got some pretty great results](https://imgur.com/gallery/wOlSxei). I like to imagine these are all the antics of one particular lawyer.\n\nThis is made with the [OpenAI GPT3 Playground](https://gpt3demo.com/apps/openai-gpt-3-playground)!",
+      "timestamp": "2022-06-14 20:48:10",
+      "score": 286,
+      "num_children": 18,
+      "author": 64086,
+      "replies": [
+        {
+          "id": "icdwqtw",
+          "text": "These are fantastic",
+          "timestamp": "2022-06-14 22:35:28",
+          "score": 77,
+          "num_children": 0,
+          "author": 26758,
+          "replies": []
+        },
+        {
+          "id": "icdxc2m",
+          "text": "Most of these were just sad. Makes you wonder how many of these kinds of threads the ai scanned",
+          "timestamp": "2022-06-14 22:40:15",
+          "score": 61,
+          "num_children": 2,
+          "author": 378488,
+          "replies": [
+            {
+              "id": "icdy7jq",
+              "text": "For those, I prompted it with \u201cA sad 4chan greentext\u201d. It does what it was instructed to shockingly well  - you can actually guide it to make specific types of greentext!",
+              "timestamp": "2022-06-14 22:47:21",
+              "score": 54,
+              "num_children": 0,
+              "author": 64086,
+              "replies": []
+            },
+            {
+              "id": "iceapo8",
+              "text": "\\>suicide is le sad\n\nreddit moment",
+              "timestamp": "2022-06-15 00:30:06",
+              "score": 29,
+              "num_children": 2,
+              "author": 264703,
+              "replies": [
+                {
+                  "id": "icewiyf",
+                  "text": "What do we call whatever moment you just had",
+                  "timestamp": "2022-06-15 03:34:23",
+                  "score": 30,
+                  "num_children": 1,
+                  "author": 45369,
+                  "replies": [
+                    {
+                      "id": "icg04kb",
+                      "text": "based and redpilled, duh",
+                      "timestamp": "2022-06-15 11:50:00",
+                      "score": 7,
+                      "num_children": 0,
+                      "author": 264703,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "icftsjz",
+                  "text": "\\>reddit is le bad\n\n4chan moment",
+                  "timestamp": "2022-06-15 10:37:14",
+                  "score": 12,
+                  "num_children": 0,
+                  "author": 258208,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "icek3yv",
+          "text": ">he's a giant redwood\n\nMy sides",
+          "timestamp": "2022-06-15 01:48:08",
+          "score": 40,
+          "num_children": 1,
+          "author": 352095,
+          "replies": [
+            {
+              "id": "icfs8o3",
+              "text": "[Surely the best.](https://i.imgur.com/AIrwGFg.jpg)",
+              "timestamp": "2022-06-15 10:16:37",
+              "score": 19,
+              "num_children": 0,
+              "author": 346997,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "iceaz80",
+          "text": "This shit is scary man. Maybe those schizos on /pol/ are actually right about the bot spammers.",
+          "timestamp": "2022-06-15 00:32:18",
+          "score": 29,
+          "num_children": 0,
+          "author": 229864,
+          "replies": []
+        },
+        {
+          "id": "icecyyh",
+          "text": "the train one is actually great\n\napparently AI is hot for trains\n\nhttps://i.imgur.com/P10QN9Z.png\n\nhttps://i.imgur.com/zRJrvtY.png\n\nmeta greentext - https://i.imgur.com/32bpdpg.png",
+          "timestamp": "2022-06-15 00:48:42",
+          "score": 28,
+          "num_children": 2,
+          "author": 266365,
+          "replies": [
+            {
+              "id": "icef1vv",
+              "text": "As a tip to get it a little more consistent - for your prompt, it helps to start it off with a bit of the format to go on. Something like\n\n___\n\nA funny 4chan greentext about trains:\n\n\\> be me \n\n\\>",
+              "timestamp": "2022-06-15 01:06:00",
+              "score": 18,
+              "num_children": 0,
+              "author": 64086,
+              "replies": []
+            },
+            {
+              "id": "icfovnq",
+              "text": "Would this be an AI equivalent to furry porn?",
+              "timestamp": "2022-06-15 09:27:26",
+              "score": 2,
+              "num_children": 0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "icdqvjk",
+          "text": "Link to the place to do this?",
+          "timestamp": "2022-06-14 21:48:58",
+          "score": 18,
+          "num_children": 1,
+          "author": 116611,
+          "replies": [
+            {
+              "id": "iceb4ab",
+              "text": "https://beta.openai.com/playground",
+              "timestamp": "2022-06-15 00:33:26",
+              "score": 14,
+              "num_children": 1,
+              "author": 107060,
+              "replies": [
+                {
+                  "id": "icgg0kd",
+                  "text": "You need an account to use it, and I just realized gmailnator and guerillamail are kill. What did you guys use to sign up for an account?",
+                  "timestamp": "2022-06-15 14:07:00",
+                  "score": 1,
+                  "num_children": 2,
+                  "author": 128033,
+                  "replies": [
+                    {
+                      "id": "ich73x0",
+                      "text": "just one of my secondary gmail account that I use for subscritption and things like that. It will also ask for a phone number so you might wanna use one of those things that give a temporary one if you dont wanna use your own",
+                      "timestamp": "2022-06-15 17:14:23",
+                      "score": 3,
+                      "num_children": 1,
+                      "author": 107060,
+                      "replies": [
+                        {
+                          "id": "ichdxyl",
+                          "text": "Yeah I ended up using anonaddy with one of the generic domains, and luckily had a spare disposable SIM laying around that worked for the phone requirement. \n\nI find it unlikely most people in this sub have both of those things though, so I guess some people must just accept getting datamined when signing up.",
+                          "timestamp": "2022-06-15 18:00:48",
+                          "score": 1,
+                          "num_children": 0,
+                          "author": 128033,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idiomgz",
+                      "text": "Just use your regular email. OpenAI is basically funded my Microsoft. Microsoft probably already knows your email and weird kinks",
+                      "timestamp": "2022-06-24 03:50:42",
+                      "score": 1,
+                      "num_children": 1,
+                      "replies": [
+                        {
+                          "id": "idj4iui",
+                          "text": "Sorry mr. glowie, I instinctively used a burner address when I signed up. Gotta make ya earn your paycheck, y\u2019know?",
+                          "timestamp": "2022-06-24 06:52:23",
+                          "score": 1,
+                          "num_children": 0,
+                          "author": 128033,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ice7dx3",
+          "text": "The last three had me actually LOLing",
+          "timestamp": "2022-06-15 00:02:43",
+          "score": 17,
+          "num_children": 0,
+          "author": 397059,
+          "replies": []
+        },
+        {
+          "id": "icf4tex",
+          "text": "The redwood one got me so fucking hard holy shit",
+          "timestamp": "2022-06-15 04:57:39",
+          "score": 11,
+          "num_children": 0,
+          "author": 209491,
+          "replies": []
+        },
+        {
+          "id": "icf5xsr",
+          "text": "Reading the tree lawyer ones, I got this feeling that I was actually the neural net being programmed somehow. That was weird.",
+          "timestamp": "2022-06-15 05:10:03",
+          "score": 8,
+          "num_children": 0,
+          "author": 165018,
+          "replies": []
+        },
+        {
+          "id": "icecldz",
+          "text": "The cum on keyboard story is legit disturbing, I've done that thrice and the consequences have traumatized me every time",
+          "timestamp": "2022-06-15 00:45:33",
+          "score": 4,
+          "num_children": 0,
+          "author": 264703,
+          "replies": []
+        },
+        {
+          "id": "ice839q",
+          "text": "The one about anon committing suicide actually made me really depressed. Reconsidering my life rn. Thanks",
+          "timestamp": "2022-06-15 00:08:27",
+          "score": 13,
+          "num_children": 0,
+          "author": 192564,
+          "replies": []
+        },
+        {
+          "id": "icihf9s",
+          "text": "The tree album is amazing",
+          "timestamp": "2022-06-15 22:40:17",
+          "score": 3,
+          "num_children": 0,
+          "author": 228502,
+          "replies": []
+        },
+        {
+          "id": "ickr17f",
+          "text": "Just made one myself: \n\n>prompt: write a 4chan greentext involving Joe Biden and Shrek and sexual assault\r  \n\\>be me\r\n\nResponse: \n\n>\\>be Joe Biden\r  \n\r  \n\\>be at the local park\r  \n\r  \n\\>see a big green ogre walking around\r  \n\r  \n\\>think to myself \"damn, that's one big motherfucker\"\r  \n\r  \n\\>ogre sees me\r  \n\r  \n\\>ogre: \"Hey Joe, you wanna come play with me?\"\r  \n\r  \n\\>Joe: \"Sure thing buddy!\"\r  \n\r  \n\\>ogre grabs me and throws me into a bush\r  \n\r  \n\\>ogre: \"Now it's time for some fun!\"\r  \n\r  \n\\>Joe: \"No, please, stop!\"\r  \n\r  \n\\>ogre starts sexually assaulting me\r  \n\r  \n\\>Joe: \"Somebody help me!\"\r  \n\r  \n\\>nobody hears me\r  \n\r  \n\\>ogre continues to rape me\r  \n\r  \n\\>Joe: \"This is the worst day of my life.\"\n\nIt hasn't learnt shrekposting yet, but I did get a content warning",
+          "timestamp": "2022-06-16 12:48:07",
+          "score": 4,
+          "num_children": 0,
+          "author": 74205,
+          "replies": []
+        },
+        {
+          "id": "idsls9s",
+          "text": ">tells me it's not appropriate\n\n>i'm about to blow my load\n\n>she says she's going to have to report me\n\n>i cum\n\n\nHoly fuck dude my girlfriend is asleep and I\u2019ve got tears welling in my eyes holding back laughter at this",
+          "timestamp": "2022-06-26 11:15:21",
+          "score": 4,
+          "num_children": 0,
+          "replies": []
+        },
+        {
+          "id": "icl8w5l",
+          "text": "I love The Adventures of Tree Lawyer.",
+          "timestamp": "2022-06-16 15:07:28",
+          "score": 3,
+          "num_children": 0,
+          "author": 233831,
+          "replies": []
+        },
+        {
+          "id": "icfijwe",
+          "text": "I saw one earlier about drinking concrete. Absolutely lost my shit.",
+          "timestamp": "2022-06-15 07:53:26",
+          "score": 2,
+          "num_children": 0,
+          "replies": []
+        },
+        {
+          "id": "idz253o",
+          "text": "[what?](https://files.catbox.moe/hyuhc1.png)",
+          "timestamp": "2022-06-27 20:27:43",
+          "score": 2,
+          "num_children": 0,
+          "author": 112179,
+          "replies": []
+        },
+        {
+          "id": "icgcogp",
+          "text": "Definitely thought that first one was going to be a walk the dinosaur.",
+          "timestamp": "2022-06-15 13:41:34",
+          "score": 1,
+          "num_children": 0,
+          "author": 220234,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "iccqjpp",
+      "text": "Best greentext ever",
+      "timestamp": "2022-06-14 17:34:42",
+      "score": 238,
+      "num_children": 0,
+      "author": 121478,
+      "replies": []
+    },
+    {
+      "id": "iccwi2e",
+      "text": "AI generated shitposts when?",
+      "timestamp": "2022-06-14 18:15:17",
+      "score": 137,
+      "num_children": 3,
+      "replies": [
+        {
+          "id": "icd3qz6",
+          "text": "[https://gpt-4chan.com/](https://gpt-4chan.com/)",
+          "timestamp": "2022-06-14 19:05:12",
+          "score": 100,
+          "num_children": 1,
+          "author": 400958,
+          "replies": [
+            {
+              "id": "icd6gus",
+              "text": "Offline for maintenance, any idea on how long it could take?",
+              "timestamp": "2022-06-14 19:23:54",
+              "score": 55,
+              "num_children": 3,
+              "author": 54208,
+              "replies": [
+                {
+                  "id": "icd6tcj",
+                  "text": "Hard to tell, the counter is timeless",
+                  "timestamp": "2022-06-14 19:26:17",
+                  "score": 63,
+                  "num_children": 2,
+                  "author": 284311,
+                  "replies": [
+                    {
+                      "id": "icd6zdg",
+                      "text": "Where's the timeless counter supervisor",
+                      "timestamp": "2022-06-14 19:27:26",
+                      "score": 106,
+                      "num_children": 1,
+                      "author": 54208,
+                      "replies": [
+                        {
+                          "id": "icddgt1",
+                          "text": "He quit the job because one day the timeless counter had a timer",
+                          "timestamp": "2022-06-14 20:12:24",
+                          "score": 45,
+                          "num_children": 1,
+                          "author": 38185,
+                          "replies": [
+                            {
+                              "id": "icdfe53",
+                              "text": "I heard he works as a timer counter supervisor now",
+                              "timestamp": "2022-06-14 20:25:43",
+                              "score": 24,
+                              "num_children": 1,
+                              "author": 76783,
+                              "replies": [
+                                {
+                                  "id": "icdqqiw",
+                                  "text": "Timer counter supervisor here, First day on the job, I ran into a timeless counter.\n\ndistress.Jpg\n\nask my boss what to do.\n\n\"Just make it a timer counter again, you're the supervisor\"\n\n\"How?\" I reply\n\n\"I don't know, you're the supervisor\".\n\nrage.jpg\n\nquit my job\n\nget my job at Wendy's back.\n\nmove back in the with folks\n\nfml",
+                                  "timestamp": "2022-06-14 21:47:55",
+                                  "score": 11,
+                                  "num_children": 1,
+                                  "author": 243473,
+                                  "replies": [
+                                    {
+                                      "id": "icej4t2",
+                                      "text": "Good start shit ending",
+                                      "timestamp": "2022-06-15 01:40:00",
+                                      "score": 7,
+                                      "num_children": 0,
+                                      "author": 94420,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ice0358",
+                      "text": "It's a classic.",
+                      "timestamp": "2022-06-14 23:02:42",
+                      "score": 2,
+                      "num_children": 0,
+                      "author": 367136,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "icdsc2d",
+                  "text": "This dumbass website won't let me post a link, but check out /u/ ykilcher -- they made this model and have a post about it.",
+                  "timestamp": "2022-06-14 22:00:16",
+                  "score": 2,
+                  "num_children": 0,
+                  "author": 400958,
+                  "replies": []
+                },
+                {
+                  "id": "icf2vyh",
+                  "text": "https://web.archive.org/web/20220609162139/https://gpt-4chan.com/?next=https%3A%2F%2Fgpt-4chan.com%2Fhome",
+                  "timestamp": "2022-06-15 04:36:48",
+                  "score": 2,
+                  "num_children": 0,
+                  "author": 397647,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "icdb4yb",
+          "text": "... Now?  \nThat's what this is.",
+          "timestamp": "2022-06-14 19:56:06",
+          "score": 9,
+          "num_children": 0,
+          "author": 345565,
+          "replies": []
+        },
+        {
+          "id": "icdig0u",
+          "text": "try r/ SubSimulatorGPT2",
+          "timestamp": "2022-06-14 20:46:40",
+          "score": 3,
+          "num_children": 0,
+          "author": 310412,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icd226e",
+      "text": "NPC's actually are funnier than actual people on 4chan.",
+      "timestamp": "2022-06-14 18:53:32",
+      "score": 112,
+      "num_children": 0,
+      "author": 66494,
+      "replies": []
+    },
+    {
+      "id": "icckki1",
+      "text": "holy based and gigachadpilled",
+      "timestamp": "2022-06-14 16:54:20",
+      "score": 438,
+      "num_children": 0,
+      "author": 275142,
+      "replies": []
+    },
+    {
+      "id": "icdaye1",
+      "text": "These AI greentexts are better than human ones. What does that tell you.",
+      "timestamp": "2022-06-14 19:54:51",
+      "score": 41,
+      "num_children": 1,
+      "replies": [
+        {
+          "id": "icdc56i",
+          "text": "It means eventually you\u2019ll no longer trust who on the internet is a bot and who is a human. It means eventually you\u2019ll be competing with AI for jobs and the AI doesn\u2019t require sleep or sustenance. It means the AI will fuck your wife.",
+          "timestamp": "2022-06-14 20:03:05",
+          "score": 45,
+          "num_children": 1,
+          "author": 33428,
+          "replies": [
+            {
+              "id": "icdpap5",
+              "text": "Yikes, this is bad actually. This Ai is writing better green text than most of us can. When the ai revolution comes it\u2019s gonna blindside everyone. I\u2019d bet this one can already replace a lot of people. It\u2019s times like these I actually appreciate that my jobs somewhat complicated and it would probably take quite a few robots to replace me.",
+              "timestamp": "2022-06-14 21:36:55",
+              "score": 10,
+              "num_children": 2,
+              "replies": [
+                {
+                  "id": "ich99tq",
+                  "text": "Tbh this is basically the basis for the dead internet theory: that something like 80% of the internet is composed of AIs and various bots and that genuine user generated content is more rare. \n\nThis theory has been around for a while, a decade or two I think, but its gained a bit of traction in the mainstream with shit like these 4chan AIs and the Twitter bot followers being discovered. \n\nImagine how many people are running accounts and updating their status about whatever the fuck and getting dopamine from interacting with their \"followers\", totally unaware of the fact that they're literally just talking to bots. The fact that theres a nonzero chance of this scenario happening now or in the near future is quite terrifying.",
+                  "timestamp": "2022-06-15 17:29:07",
+                  "score": 4,
+                  "num_children": 1,
+                  "author": 112441,
+                  "replies": [
+                    {
+                      "id": "ici69fq",
+                      "text": "Which is why nobody should take online politics seriously. Twatter is full of fake checkmarks that literally spout the same rhetoric, sometimes even word for word. Wouldn\u2019t be surprised if 90% of them are bots. They don\u2019t even try to hide it. Whether it\u2019s malicious or not, the truth is social media profits when people flock to their platforms to argue with strangers online, so it would make sense they\u2019d allow special interest groups to use bots to proliferate narratives",
+                      "timestamp": "2022-06-15 21:18:23",
+                      "score": 5,
+                      "num_children": 0,
+                      "author": 33428,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "icdsowf",
+                  "text": "a few robots, or half a mexican",
+                  "timestamp": "2022-06-14 22:03:04",
+                  "score": 8,
+                  "num_children": 0,
+                  "author": 400958,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iccxb5h",
+      "text": "funnier than most of the shit you redditers keep posting here",
+      "timestamp": "2022-06-14 18:20:48",
+      "score": 987,
+      "num_children": 5,
+      "replies": [
+        {
+          "id": "icda6oy",
+          "text": "Maybe you 4chaners just have to write funnier greentext for us to post",
+          "timestamp": "2022-06-14 19:49:32",
+          "score": 302,
+          "num_children": 2,
+          "author": 359952,
+          "replies": [
+            {
+              "id": "icdbyzj",
+              "text": "Greentext sucks, stuff that isn't greentext should be posted",
+              "timestamp": "2022-06-14 20:01:53",
+              "score": 71,
+              "num_children": 1,
+              "replies": [
+                {
+                  "id": "icdi2oa",
+                  "text": "Can't be. That's why this is Reddit and that is 4chan.",
+                  "timestamp": "2022-06-14 20:44:06",
+                  "score": 25,
+                  "num_children": 0,
+                  "author": 281166,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "icdrj8l",
+              "text": "If we're here, we're all Redditors. No exceptions.",
+              "timestamp": "2022-06-14 21:54:03",
+              "score": 31,
+              "num_children": 2,
+              "replies": [
+                {
+                  "id": "icdw127",
+                  "text": "No no no, you don\u2019t get it. He\u2019s here ironically",
+                  "timestamp": "2022-06-14 22:29:38",
+                  "score": 61,
+                  "num_children": 0,
+                  "author": 76719,
+                  "replies": []
+                },
+                {
+                  "id": "ice08r5",
+                  "text": "http://i0.kym-cdn.com/photos/images/original/000/781/383/235.gif",
+                  "timestamp": "2022-06-14 23:03:58",
+                  "score": 13,
+                  "num_children": 2,
+                  "author": 359952,
+                  "replies": [
+                    {
+                      "id": "icegrvm",
+                      "text": "Reddit moment",
+                      "timestamp": "2022-06-15 01:20:20",
+                      "score": 24,
+                      "num_children": 0,
+                      "author": 4954,
+                      "replies": []
+                    },
+                    {
+                      "id": "icej1ve",
+                      "text": "le quirky WOOOSH !!",
+                      "timestamp": "2022-06-15 01:39:19",
+                      "score": 17,
+                      "num_children": 0,
+                      "author": 196061,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "icduws1",
+          "text": "[removed]",
+          "timestamp": "2022-06-14 22:20:37",
+          "score": 6,
+          "num_children": 1,
+          "replies": [
+            {
+              "id": "ice07ol",
+              "text": "raging",
+              "timestamp": "2022-06-14 23:03:43",
+              "score": 7,
+              "num_children": 1,
+              "replies": [
+                {
+                  "id": "ice3zhh",
+                  "text": "They hated him because he spoke the truth.",
+                  "timestamp": "2022-06-14 23:35:04",
+                  "score": 4,
+                  "num_children": 0,
+                  "author": 385561,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "icdx4kc",
+          "text": "Literally everything that gets posted here is from 4chan you fucking brainlet, knock those lonely braincells together and think for once.\n\nAlso you are a redditor too, you have made a account for the site so the edgy \"Guys im so epic I look at 4chan\" teenage bullshit doesnt work",
+          "timestamp": "2022-06-14 22:38:34",
+          "score": 10,
+          "num_children": 3,
+          "author": 311056,
+          "replies": [
+            {
+              "id": "iceiihr",
+              "text": "Seething",
+              "timestamp": "2022-06-15 01:34:49",
+              "score": 15,
+              "num_children": 1,
+              "replies": [
+                {
+                  "id": "icer1ow",
+                  "text": "[deleted]",
+                  "timestamp": "2022-06-15 02:46:16",
+                  "score": -7,
+                  "num_children": 4,
+                  "replies": [
+                    {
+                      "id": "icfx3m8",
+                      "text": "Seething",
+                      "timestamp": "2022-06-15 11:16:52",
+                      "score": 8,
+                      "num_children": 0,
+                      "replies": []
+                    },
+                    {
+                      "id": "icf0ezd",
+                      "text": "You definitely sound like a redditor.",
+                      "timestamp": "2022-06-15 04:11:20",
+                      "score": 13,
+                      "num_children": 0,
+                      "replies": []
+                    },
+                    {
+                      "id": "icg6pbf",
+                      "text": "Mald or something",
+                      "timestamp": "2022-06-15 12:52:45",
+                      "score": 5,
+                      "num_children": 0,
+                      "replies": []
+                    },
+                    {
+                      "id": "icf4fxw",
+                      "text": "Lmao b8ed",
+                      "timestamp": "2022-06-15 04:53:31",
+                      "score": 7,
+                      "num_children": 1,
+                      "author": 327691,
+                      "replies": [
+                        {
+                          "id": "iciyjfl",
+                          "text": "actual teenager",
+                          "timestamp": "2022-06-16 00:54:40",
+                          "score": 0,
+                          "num_children": 1,
+                          "author": 311056,
+                          "replies": [
+                            {
+                              "id": "icj5gz7",
+                              "text": "Are you mad m80, or just new here lmao",
+                              "timestamp": "2022-06-16 01:49:31",
+                              "score": 1,
+                              "num_children": 1,
+                              "author": 327691,
+                              "replies": [
+                                {
+                                  "id": "icjp9ud",
+                                  "text": "[deleted]",
+                                  "timestamp": "2022-06-16 04:48:46",
+                                  "score": 0,
+                                  "num_children": 1,
+                                  "replies": [
+                                    {
+                                      "id": "icjuukl",
+                                      "text": "\"Cherish it while it was alive, not after its death\"\n\n-m00t, if you even know who that is",
+                                      "timestamp": "2022-06-16 05:54:06",
+                                      "score": 1,
+                                      "num_children": 0,
+                                      "author": 327691,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ice05xr",
+              "text": "you are so mad right now",
+              "timestamp": "2022-06-14 23:03:20",
+              "score": 34,
+              "num_children": 2,
+              "replies": [
+                {
+                  "id": "icg6mv1",
+                  "text": "What a redditor lmao",
+                  "timestamp": "2022-06-15 12:52:09",
+                  "score": 10,
+                  "num_children": 0,
+                  "replies": []
+                },
+                {
+                  "id": "ice0hd0",
+                  "text": "I'm not mad, I'm just baffled that you dont see how stupid what you said is, its honestly mindblowing. there is no way you actually use 4chan cause you are one of the kinds of people that gets clowned on all the time there",
+                  "timestamp": "2022-06-14 23:05:58",
+                  "score": 4,
+                  "num_children": 1,
+                  "author": 311056,
+                  "replies": [
+                    {
+                      "id": "ice7w20",
+                      "text": "the only way to win the game is to not play",
+                      "timestamp": "2022-06-15 00:06:48",
+                      "score": 21,
+                      "num_children": 2,
+                      "author": 156102,
+                      "replies": [
+                        {
+                          "id": "iceam1a",
+                          "text": "Or kill the other player. Can\u2019t win if he can\u2019t play.",
+                          "timestamp": "2022-06-15 00:29:15",
+                          "score": 7,
+                          "num_children": 1,
+                          "author": 31200,
+                          "replies": [
+                            {
+                              "id": "iceciyg",
+                              "text": "\ud83e\udd2f",
+                              "timestamp": "2022-06-15 00:45:00",
+                              "score": 3,
+                              "num_children": 0,
+                              "author": 156102,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "icerc7t",
+                          "text": "Imagine being this mad on Reddit. Lol\n\nEdit: *might* have responded to the wrong person.",
+                          "timestamp": "2022-06-15 02:48:46",
+                          "score": 2,
+                          "num_children": 0,
+                          "author": 405991,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "icf9oks",
+              "text": "He fell for it guys",
+              "timestamp": "2022-06-15 05:54:15",
+              "score": 6,
+              "num_children": 1,
+              "author": 283730,
+              "replies": [
+                {
+                  "id": "iciyhej",
+                  "text": "pathetic",
+                  "timestamp": "2022-06-16 00:54:13",
+                  "score": 2,
+                  "num_children": 0,
+                  "author": 311056,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ice8tgr",
+          "text": "In case you didn't notice, you're a redditer too",
+          "timestamp": "2022-06-15 00:14:31",
+          "score": 0,
+          "num_children": 0,
+          "author": 301134,
+          "replies": []
+        },
+        {
+          "id": "icdzjnb",
+          "text": "[removed]",
+          "timestamp": "2022-06-14 22:58:19",
+          "score": 1,
+          "num_children": 1,
+          "replies": [
+            {
+              "id": "icdzjoz",
+              "text": "Your comment has been removed because it contained a word that the admins do not allow on reddit. The word was ```\ud83e\udd21```. If you intend to use this word in a purely demonstrative manner, please use the first letter of the word followed by '-word' or '-slur'. Thank you for helping us keep reddit safe.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/4chan) if you have any questions or concerns.*",
+              "timestamp": "2022-06-14 22:58:19",
+              "score": 4,
+              "num_children": 1,
+              "author": 184140,
+              "replies": [
+                {
+                  "id": "ice3osf",
+                  "text": "Admins must not like it when use their word.",
+                  "timestamp": "2022-06-14 23:32:36",
+                  "score": 6,
+                  "num_children": 0,
+                  "author": 377841,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icd2s59",
+      "text": "4chan dot org been real quiet since this dropped",
+      "timestamp": "2022-06-14 18:58:32",
+      "score": 26,
+      "num_children": 0,
+      "author": 52152,
+      "replies": []
+    },
+    {
+      "id": "icdimcu",
+      "text": "[I also tried this:](https://i.imgur.com/o01ZsCF.png)",
+      "timestamp": "2022-06-14 20:47:53",
+      "score": 29,
+      "num_children": 0,
+      "author": 221918,
+      "replies": []
+    },
+    {
+      "id": "icd1wek",
+      "text": "What the fuck",
+      "timestamp": "2022-06-14 18:52:27",
+      "score": 21,
+      "num_children": 1,
+      "author": 404564,
+      "replies": [
+        {
+          "id": "iceo5ug",
+          "text": "AI can generate funnier greentext than humans now, this is a tipping point for humanity.",
+          "timestamp": "2022-06-15 02:22:06",
+          "score": 8,
+          "num_children": 0,
+          "author": 189577,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icdjwm5",
+      "text": "[https://imgur.com/a/BYDX4IW](https://imgur.com/a/BYDX4IW)\n\nGPT-3 gets it",
+      "timestamp": "2022-06-14 20:56:55",
+      "score": 22,
+      "num_children": 1,
+      "replies": [
+        {
+          "id": "ice9dzk",
+          "text": "ghana / uganda unification when????",
+          "timestamp": "2022-06-15 00:19:13",
+          "score": 5,
+          "num_children": 1,
+          "author": 143271,
+          "replies": [
+            {
+              "id": "ici2oxl",
+              "text": "Soon brother",
+              "timestamp": "2022-06-15 20:53:05",
+              "score": 3,
+              "num_children": 0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icd4fhl",
+      "text": "Literally just a Stanley parable skit",
+      "timestamp": "2022-06-14 19:09:54",
+      "score": 97,
+      "num_children": 1,
+      "author": 389335,
+      "replies": [
+        {
+          "id": "ice57ol",
+          "text": "this. stanley was the first bottomless pit supervisor, the AI was just taking inspiration from his awe inspiring work",
+          "timestamp": "2022-06-14 23:45:01",
+          "score": 21,
+          "num_children": 0,
+          "author": 57958,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icd8zr3",
+      "text": "4chan can no longer pass the Turing test",
+      "timestamp": "2022-06-14 19:41:17",
+      "score": 20,
+      "num_children": 0,
+      "author": 80760,
+      "replies": []
+    },
+    {
+      "id": "icddu1j",
+      "text": "This is the funniest shit I've seen in a hot second. I can 100% see some of the /b/ boneheads writing this shit too",
+      "timestamp": "2022-06-14 20:14:59",
+      "score": 18,
+      "num_children": 0,
+      "author": 357671,
+      "replies": []
+    },
+    {
+      "id": "ice9fci",
+      "text": "Holy shit this is great\n\n>Write me a 4chan greentext.\n\n>be 20\n\n>be in college\n\n>be studying engineering\n\n>be really into cars\n\n>go to work on campus one day\n\n>see a hot girl walking\n\n>decide to follow her\n\n>she goes into the library\n\n>you follow her\n\n>she goes to the 3rd floor\n\n>you follow her\n\n>she goes into the computer lab\n\n>you follow her\n\n>she sits down at a computer\n\n>you sit down at the computer next to her\n\n>she starts typing away\n\n>you try to sneak a peek at what she's doing\n\n>she's coding\n\n>she's really good\n\n>you try to talk to her\n\n>she's really into her work and ignores you\n\n>you try to get her attention\n\n>she finally looks at you\n\n>she's really pretty\n\n>she tells you to fuck off\n\n>you go back to your room\n\n>you masturbate to the thought of her telling you to fuck off",
+      "timestamp": "2022-06-15 00:19:31",
+      "score": 20,
+      "num_children": 1,
+      "author": 226689,
+      "replies": [
+        {
+          "id": "icea41y",
+          "text": "I asked for a retarded one and unfortunately it did not disappoint. \n\n>be me\n\n>be in class\n\n>teacher is talking about some bullshit\n\n>i'm not paying attention\n\n>all of a sudden i feel a sharp pain in my leg\n\n>i look down and see a needle\n\n>i've been shot\n\n>i start screaming\n\n>blood starts pouring out of the wound\n\n>the teacher just looks at me and continues talking\n\n>i'm in so much pain\n\n>i can't move\n\n>i'm dying\n\n>i see the teacher reach for something under his desk\n\n>he pulls out a gun\n\n>he shoots me in the head\n\n\n>be me\n\n>be walking down the street\n\n>suddenly i see a bank\n\n>i walk in\n\n>i go up to the teller\n\n>i tell her to give me all the money\n\n>she doesn't even hesitate\n\n>she hands me a bag full of money\n\n>i walk out of the bank\n\n>i'm rich now\n\n>i can buy anything i want\n\n>i'm so happy",
+          "timestamp": "2022-06-15 00:25:06",
+          "score": 14,
+          "num_children": 0,
+          "author": 226689,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icdfxmx",
+      "text": "This is actually so good lmfao.",
+      "timestamp": "2022-06-14 20:29:28",
+      "score": 17,
+      "num_children": 0,
+      "author": 125981,
+      "replies": []
+    },
+    {
+      "id": "icd4sle",
+      "text": "AI is [OpenAI](http://beta.openai.com)",
+      "timestamp": "2022-06-14 19:12:27",
+      "score": 40,
+      "num_children": 4,
+      "author": 266379,
+      "replies": [
+        {
+          "id": "icd8yqx",
+          "text": "Their API is pretty easy to use as well, you can it in combination with [PRAW](https://praw.readthedocs.io/en/stable/) to make really easy, kinda legit sounding reddit bots.",
+          "timestamp": "2022-06-14 19:41:05",
+          "score": 19,
+          "num_children": 0,
+          "author": 112806,
+          "replies": []
+        },
+        {
+          "id": "icdmi80",
+          "text": "How do I use this? I like making up funny stories or relate life experiences. So it'd be nice to add some idiotic spice to it.",
+          "timestamp": "2022-06-14 21:15:52",
+          "score": 6,
+          "num_children": 0,
+          "author": 129895,
+          "replies": []
+        },
+        {
+          "id": "icdm751",
+          "text": "But which actual system is it? OpenAI has many different systems for many different purposes.",
+          "timestamp": "2022-06-14 21:13:33",
+          "score": 2,
+          "num_children": 1,
+          "author": 233398,
+          "replies": [
+            {
+              "id": "icdx2sr",
+              "text": "If it's openAI and text generation, likely GPT2",
+              "timestamp": "2022-06-14 22:38:10",
+              "score": 2,
+              "num_children": 1,
+              "author": 187464,
+              "replies": [
+                {
+                  "id": "idiopzr",
+                  "text": "Gpt 3",
+                  "timestamp": "2022-06-24 03:51:39",
+                  "score": 2,
+                  "num_children": 1,
+                  "replies": [
+                    {
+                      "id": "idk7ixh",
+                      "text": "Good point!",
+                      "timestamp": "2022-06-24 14:19:19",
+                      "score": 1,
+                      "num_children": 0,
+                      "author": 187464,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "idior7m",
+          "text": "OpenAI is the company. Gpt 3 is the ai model",
+          "timestamp": "2022-06-24 03:51:58",
+          "score": 1,
+          "num_children": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icd9ps0",
+      "text": "I tried the same, without the \u201c>bottomless pit supervisor\u201d part:\n\n\nWrite me a 4chan greentext\n\n>be me\n>be at 4chan\n>see greentext\n\n>be me\n>be at 4chan\n>see greentext\n\n>be me\n>be at 4chan\n>see greentext\n\n>be me\n>be at 4chan\n>see greentext\n\n>be me\n>be at 4chan\n>see greentext",
+      "timestamp": "2022-06-14 19:46:17",
+      "score": 13,
+      "num_children": 1,
+      "author": 345707,
+      "replies": [
+        {
+          "id": "icdb2dm",
+          "text": "You have to prompt it with a pattern. Try:  \n  \n>Write me a 4chan greentext about dnd and harry potter   \n>\\>be me",
+          "timestamp": "2022-06-14 19:55:36",
+          "score": 9,
+          "num_children": 2,
+          "author": 321584,
+          "replies": [
+            {
+              "id": "icde2zs",
+              "text": "I just removed the \u201cbottomless pit\u201d part, I wrote \u201c>be me\u201d to give it something to start with, but it just started a cycle of third person commenting apparently",
+              "timestamp": "2022-06-14 20:16:41",
+              "score": 4,
+              "num_children": 0,
+              "author": 345707,
+              "replies": []
+            },
+            {
+              "id": "ice8875",
+              "text": "I think it must crawl 4chan, as when I tried to get it to write from the following prompt, it started coming up with failed captcha/forum login stuff:\n\n**prompt:**\n\n>write me a 4chan greentext about Shrek, Mongolian deepthroat, and Saint Josephine\n\n>be me\n\n**AI generated continuation:**\n\n>You are logged out. Login | Sign up\n\n>Click to open photo gallery:\n\n>Other funny stories:\n\n>Boys is the best band in the world\n\n>All men are f***boys.\n\n>Ponies are black people.\n\n>kazuya loves losing\n\n>superman has a large d**k\n\n>whiny f****t boys d**k\n\n>If you think you can put a d**k inside me you are mistaken\n\n>when they say women are unattractive people really aren\u2019t listening\n\n>has a huge d**k\n\n>You are logged out. Login | Sign up\n\n>Click to open photo gallery:\n\n>hope this helped\n\n>Notify me of follow-up comments via e-mail\n\n>Click to connect with Andrew Jenkins",
+              "timestamp": "2022-06-15 00:09:36",
+              "score": 3,
+              "num_children": 0,
+              "author": 51370,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icdbnug",
+      "text": "Not only do we have to compete with women and immigrants in the workforce, now we\u2019re gonna be competing with AI too! God I love the future",
+      "timestamp": "2022-06-14 19:59:45",
+      "score": 11,
+      "num_children": 0,
+      "author": 33428,
+      "replies": []
+    },
+    {
+      "id": "iccyz9m",
+      "text": "is this from seychelles anon?",
+      "timestamp": "2022-06-14 18:32:17",
+      "score": 8,
+      "num_children": 0,
+      "author": 28273,
+      "replies": []
+    },
+    {
+      "id": "ice2ng9",
+      "text": "Man this is the stuff /b/  was made of. Where did the times go",
+      "timestamp": "2022-06-14 23:24:02",
+      "score": 6,
+      "num_children": 0,
+      "author": 364140,
+      "replies": []
+    },
+    {
+      "id": "icdmrzl",
+      "text": "this is just stanley parable ultra deluxe",
+      "timestamp": "2022-06-14 21:17:53",
+      "score": 5,
+      "num_children": 0,
+      "author": 222211,
+      "replies": []
+    },
+    {
+      "id": "icdrqj8",
+      "text": "Xpost to r deathgrips",
+      "timestamp": "2022-06-14 21:55:37",
+      "score": 5,
+      "num_children": 0,
+      "author": 227274,
+      "replies": []
+    },
+    {
+      "id": "icdvl2m",
+      "text": "I thought I was in the Death Grips sub",
+      "timestamp": "2022-06-14 22:26:02",
+      "score": 6,
+      "num_children": 0,
+      "author": 104947,
+      "replies": []
+    },
+    {
+      "id": "icd29kl",
+      "text": "what ai is this",
+      "timestamp": "2022-06-14 18:54:57",
+      "score": 11,
+      "num_children": 2,
+      "author": 53470,
+      "replies": [
+        {
+          "id": "icd4swe",
+          "text": "https://app.inferkit.com/demo",
+          "timestamp": "2022-06-14 19:12:31",
+          "score": 13,
+          "num_children": 4,
+          "author": 189275,
+          "replies": [
+            {
+              "id": "icdfsto",
+              "text": ">be me  \nlooking for a new bike  \nwalk into store  \ncashier looks at me funny  \nshe did this to another man  \nthe other man was carrying a clear coffee  \nthe cashier has me get a regular ice coffee  \nit is still fresh  \nmy face is pale  \nI am sweating  \nnext store I walk in  \nI am ushered to the  \nKaren  \nnicotine inhaler section  \nI get my new deluxe  \nmarijuana tobacco aromatherapy  \ntrap me now  \nsmell like dew  \nbag a big one for my balcony  \nheat lamps all night to give my plants some  \nsunlight  \nbreak the top off the coffee can  \nso I can pop the top  \npull tab the entire top off  \nspray the coffee, a cloud rises  \nI have now found what i have  \nbeen looking for  \ngood to know\n\nGood sir I believe you are mistaken.\n\nThat is not the AI.",
+              "timestamp": "2022-06-14 20:28:31",
+              "score": 24,
+              "num_children": 3,
+              "replies": [
+                {
+                  "id": "icdnmfl",
+                  "text": "No this is the AI\n\n> I like to suck boobs. And touch boobs. Boobs boobs boobs. Give me boobs. Mommy milkies. The G-spot (I wanna try it out). Butt cheeks. Bums. I love bummers.\n> \n> Hairy lady bits. Booblets. Shwaggulez. Tro-weeze. The Yips. Buttcracks. Clench guts.\n> \n> Bare boobs. Bare titties. Bare boobs. Bare shwag breasts. Half-boobs. Half-titties. All breasts. No boobies. That's not a boob. Boobboob.\n> \n> Bioware has created a game that goes to great lengths to show how much they hate boobs. Several of the female characters are so naked that you can't even see their nipples or whatnot, not even their backsides. Then there's the limited amount of clothing they wear in the first three to four chapters (dang you, Millie's clothing rules!), and other fan-service ploys to hide the big old titties from our eyes.\n> \n> And apparently the art team hates boobs too, because their drawings of boobs are just...horrible. There are terrible anatomy drawings, badly-drawn breasts (making them look funny, like little lumps or something), shots of the boobs bouncing around, shots of naked butts and back boobs, and so on",
+                  "timestamp": "2022-06-14 21:24:13",
+                  "score": 9,
+                  "num_children": 1,
+                  "replies": [
+                    {
+                      "id": "icdo7ab",
+                      "text": "What the fuck am I reading.",
+                      "timestamp": "2022-06-14 21:28:37",
+                      "score": 4,
+                      "num_children": 1,
+                      "author": 152904,
+                      "replies": [
+                        {
+                          "id": "icdoves",
+                          "text": "Future Skynet pondering about the important things in life",
+                          "timestamp": "2022-06-14 21:33:43",
+                          "score": 3,
+                          "num_children": 0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "icdi9l6",
+                  "text": "Should be OpenAI",
+                  "timestamp": "2022-06-14 20:45:26",
+                  "score": 2,
+                  "num_children": 0,
+                  "author": 281166,
+                  "replies": []
+                },
+                {
+                  "id": "icef2l0",
+                  "text": "This kinda reads like knockoff Death Grips",
+                  "timestamp": "2022-06-15 01:06:09",
+                  "score": 1,
+                  "num_children": 0,
+                  "author": 275533,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ice1can",
+              "text": "Mine wrote a romance novel:\n\nCaress me, Julio,\" I whispered.\n\nHe crushed me against his massive, warm body, and his mouth moved from mine to my ear, licking my lobe with his tongue, and I sighed, pressed my body more firmly into his, and forgot to breathe.\n\nHe gave me a sexy, low laugh and murmured, \"You like that, querida?\"\n\nI turned my head and told him, \"I do.\n\nI like this a whole lot.\"\n\nHis chuckle had a naughty quality, so I lifted my head and looked into his half-closed eyes.\n\n\"Does that mean I can give you a couple of good, firm whacks on the ass in exchange for a few kisses?\"\n\nI hoped he said yes, because I wanted to give him a couple of good whacks on his ass, and also to kiss him more, and I knew this was one of the things I loved most about him.\n\nHe replied, \"Absolutely.\"\n\nI smiled.\n\nThis was one of the things I loved most about him, too.\n\nI loved that he'd pull a favor like that for me, but also that he'd do it with no suspicion that he would ever be called upon to do it again.\n\nI also wanted to kick anyone who thought it was cool to tease a woman this way.\n\nWell, I mean, I really wanted to kick anyone, but it was particularly hot when that was directed at me.\n\nI said, \"I like that idea.\"\n\nHe leaned in and kissed me again, but then he moved away and moved toward the bathroom.\n\nI followed him, and found him at the counter in the bathroom, holding a bottle of body wash and a loofa.\n\nHe was so focused on the body wash he didn't notice me until I was right next to him, and then he looked over his shoulder and winked.\n\nI watched him soap up his hands and then slap his big, hard body against my small one, and his mouth on mine, so there was no way he could miss that I'd been following him into the bathroom.\n\nBut then he'd been kissing me, and so I hadn't wanted to give him any reason to stop.\n\nHe soaped my arms up, soaping every inch of my skin with one swoop of his hands.\n\nHe started at my wrists and worked his way down to my hands.\n\nHe rested his big hands on the backs of my hands, and I gave him a saucy look, and he looked back at me and winked.\n\nI took his wink as a good sign, and decided that I was in no hurry for this shower to end.\n\nThe thing about this man was that he always found the most surprising, enjoyable ways to touch me.\n\nIn the shower, he lifted me up against his big, strong body, holding me in the most efficient and effective way, and I loved feeling his powerful hands and his big, hard body all around me.\n\nThen he helped me out of the shower.\n\nWhen I was standing, he made no effort to rush me out, instead he held me against him while the hot water poured down over us.\n\nHe kissed my neck and his hands rubbed up and down my sides, leaving heat everywhere he touched.\n\nI loved how the water cascaded over our bodies, soaking the intimate parts of our bodies, and leaving just the important parts uncovered.\n\nWe got out of the shower and he held me against his bare chest, and I wrapped my legs around his waist and started making those damn little whimpering sounds again.\n\nHe stroked my back and massaged my hips, giving a quick twist, and one of my ni**les played against his wet shirt, causing me to squeak.\n\n\"We need to go.\n\nWe're going to be late.\"\n\nI wrapped my arms around his neck and pulled him down for a kiss.\n\nHe wasn't having any of it.\n\nHe pulled back, out of my arms, and picked me up and carried me back to his room.\n\nHe threw me on the bed and climbed in next to me, lifting my h*ps up so he could rub my wet body against his.\n\nHis hands were playing in my hair and against my skin as his body sought me out, and his lips parted in the most sexy way.\n\nI didn't want to stop touching him, kissing him, but I had to, or we'd be late for the awards show.\n\nI pulled away and laid back, and he laughed and moved away from me, climbing out of bed and heading to the bathroom.\n\nI rolled to the other side of the bed and looked at the phone that was on the nightstand next to me.\n\nI had my head propped up on my hand, and I put it back to my ear.\n\n\"And they all say 'Why me?'\n\nbut I say, 'Why not me?'\"\n\nLinc turned the water off, pulled a towel out of the drawer, and then wrapped one around his waist.\n\n\"I can't believe they put that on the jumbo-screen.\"\n\n\"Yeah, they do that at the BET Awards.\"\n\n\"You're not mad, are you?\"\n\n\"Hell, no.\n\nYou're talented and hot and I was hoping that, when we came home, you'd give me a little fun before you kick me to the curb.\"\n\nI rolled my eyes.",
+              "timestamp": "2022-06-14 23:13:10",
+              "score": 5,
+              "num_children": 0,
+              "author": 219492,
+              "replies": []
+            },
+            {
+              "id": "icf0q1n",
+              "text": "https://i.imgur.com/yl7VisP.png",
+              "timestamp": "2022-06-15 04:14:27",
+              "score": 1,
+              "num_children": 0,
+              "author": 311569,
+              "replies": []
+            },
+            {
+              "id": "idioync",
+              "text": "It\u2019s GPT-3",
+              "timestamp": "2022-06-24 03:53:58",
+              "score": 1,
+              "num_children": 0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "idioyv0",
+          "text": "GPT-3",
+          "timestamp": "2022-06-24 03:54:02",
+          "score": 1,
+          "num_children": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icdgai4",
+      "text": "This is the halting problem",
+      "timestamp": "2022-06-14 20:31:56",
+      "score": 4,
+      "num_children": 1,
+      "author": 40772,
+      "replies": [
+        {
+          "id": "iceh7tb",
+          "text": "And the AI conveniently circumvented the paradox...scary",
+          "timestamp": "2022-06-15 01:23:58",
+          "score": 2,
+          "num_children": 0,
+          "author": 82268,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icdh9h4",
+      "text": "Fuckin kek",
+      "timestamp": "2022-06-14 20:38:32",
+      "score": 4,
+      "num_children": 0,
+      "author": 84583,
+      "replies": []
+    },
+    {
+      "id": "icd7eoq",
+      "text": "German humor",
+      "timestamp": "2022-06-14 19:30:23",
+      "score": 13,
+      "num_children": 0,
+      "author": 328187,
+      "replies": []
+    },
+    {
+      "id": "icd3syn",
+      "text": "Did an AI actually make this? If so, which one?",
+      "timestamp": "2022-06-14 19:05:36",
+      "score": 8,
+      "num_children": 2,
+      "author": 400958,
+      "replies": [
+        {
+          "id": "icd8wcn",
+          "text": "OpenAI iirc",
+          "timestamp": "2022-06-14 19:40:39",
+          "score": 5,
+          "num_children": 1,
+          "author": 279074,
+          "replies": [
+            {
+              "id": "icdqg5j",
+              "text": "No, it's InferKit",
+              "timestamp": "2022-06-14 21:45:40",
+              "score": 1,
+              "num_children": 1,
+              "author": 233398,
+              "replies": [
+                {
+                  "id": "icds2ay",
+                  "text": "OP literally said he used OpenAI in the comments lol",
+                  "timestamp": "2022-06-14 21:58:08",
+                  "score": 5,
+                  "num_children": 0,
+                  "author": 125492,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "icdqfke",
+          "text": "InferKit",
+          "timestamp": "2022-06-14 21:45:32",
+          "score": 1,
+          "num_children": 0,
+          "author": 233398,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icdj1zj",
+      "text": "noided and onlinepilled",
+      "timestamp": "2022-06-14 20:50:56",
+      "score": 3,
+      "num_children": 0,
+      "author": 368404,
+      "replies": []
+    },
+    {
+      "id": "icdxxkw",
+      "text": "I somewhat agree with Null. 4chin is half bots anyway.",
+      "timestamp": "2022-06-14 22:45:06",
+      "score": 3,
+      "num_children": 0,
+      "author": 8371,
+      "replies": []
+    },
+    {
+      "id": "iceaf81",
+      "text": "kek",
+      "timestamp": "2022-06-15 00:27:40",
+      "score": 3,
+      "num_children": 0,
+      "author": 31200,
+      "replies": []
+    },
+    {
+      "id": "icdfr2v",
+      "text": "> Become supervisor for endless.horse",
+      "timestamp": "2022-06-14 20:28:12",
+      "score": 2,
+      "num_children": 0,
+      "author": 194336,
+      "replies": []
+    },
+    {
+      "id": "icdgoro",
+      "text": "Did you just take a screenshot of the other post that had three more posts in it?",
+      "timestamp": "2022-06-14 20:34:38",
+      "score": 2,
+      "num_children": 0,
+      "author": 194286,
+      "replies": []
+    },
+    {
+      "id": "icdhfqn",
+      "text": "I think we just found the speechwriter for Kamala Harris.",
+      "timestamp": "2022-06-14 20:39:44",
+      "score": 2,
+      "num_children": 0,
+      "author": 131586,
+      "replies": []
+    },
+    {
+      "id": "icdlwef",
+      "text": "We went from sentient robots to a programmed one. Beautifal.",
+      "timestamp": "2022-06-14 21:11:17",
+      "score": 2,
+      "num_children": 0,
+      "replies": []
+    },
+    {
+      "id": "icdng5s",
+      "text": "The future is now bros",
+      "timestamp": "2022-06-14 21:22:54",
+      "score": 2,
+      "num_children": 0,
+      "author": 321632,
+      "replies": []
+    },
+    {
+      "id": "icdq3kt",
+      "text": "This is actually pretty great. How do we make more of these? I'm ready to assimilate with the hive mind.",
+      "timestamp": "2022-06-14 21:42:58",
+      "score": 2,
+      "num_children": 0,
+      "author": 243473,
+      "replies": []
+    },
+    {
+      "id": "icdr3rc",
+      "text": "\\>be me  \n\\>bottomless pit supervisor  \n\\>in charge of making sure the bottomless pit is, in fact, bottomless  \n\\>occasionally have to go down there and check if the bottomless pit is still bottomless  \n\\>one day i go down there and the bottomless pit is no longer bottomless  \n\\>the bottom of the bottomless pit is now just a regular pit  \n\\>distress.jpg  \n\\>ask my boss what to do  \n\\>he says \"just make it bottomless again\"  \n\\>i say \"how\"  \n\\>he says \"i don't know, you're the supervisor\"  \n\\>rage.jpg  \n\\>quit my job  \n\\>become a regular pit supervisor  \n\\>first day on the job, go to the new hole  \n\\>its bottomless",
+      "timestamp": "2022-06-14 21:50:43",
+      "score": 2,
+      "num_children": 0,
+      "author": 345770,
+      "replies": []
+    },
+    {
+      "id": "icdx7tz",
+      "text": "I like this a lot.",
+      "timestamp": "2022-06-14 22:39:18",
+      "score": 2,
+      "num_children": 0,
+      "author": 214723,
+      "replies": []
+    },
+    {
+      "id": "icdzi42",
+      "text": "That\u2019s pretty good.",
+      "timestamp": "2022-06-14 22:57:57",
+      "score": 2,
+      "num_children": 0,
+      "author": 335450,
+      "replies": []
+    },
+    {
+      "id": "ice2kuk",
+      "text": "I thought this was r/ programmermemes.",
+      "timestamp": "2022-06-14 23:23:26",
+      "score": 2,
+      "num_children": 0,
+      "author": 149559,
+      "replies": []
+    },
+    {
+      "id": "icegrn8",
+      "text": "[Sounds about right](https://i.imgur.com/h4xavqN.jpg)",
+      "timestamp": "2022-06-15 01:20:17",
+      "score": 2,
+      "num_children": 0,
+      "author": 139190,
+      "replies": []
+    },
+    {
+      "id": "icejanv",
+      "text": "Pack it in folks, the machines can handle it from here.",
+      "timestamp": "2022-06-15 01:41:20",
+      "score": 2,
+      "num_children": 0,
+      "author": 235667,
+      "replies": []
+    },
+    {
+      "id": "icf0dst",
+      "text": "Might be the funniest thing I've ever read to bring a quick smear of joy on my otherwise miserable existence. In other words I smiled.",
+      "timestamp": "2022-06-15 04:11:00",
+      "score": 2,
+      "num_children": 0,
+      "author": 207122,
+      "replies": []
+    },
+    {
+      "id": "icf4b39",
+      "text": "So they *were* robots?",
+      "timestamp": "2022-06-15 04:52:03",
+      "score": 2,
+      "num_children": 0,
+      "author": 356368,
+      "replies": []
+    },
+    {
+      "id": "icf4c6z",
+      "text": "Damn it would suck to have to make sure it's bottomless. Like, sure it's a deep hole and you can't see the bottom and you've been climing down for months now, but who's to say it's *bottomless* .",
+      "timestamp": "2022-06-15 04:52:23",
+      "score": 2,
+      "num_children": 0,
+      "author": 172601,
+      "replies": []
+    },
+    {
+      "id": "icf4f51",
+      "text": "Lmaoooo they\u2019re going to unleash the most autistic and racist AI that would make hitler blush",
+      "timestamp": "2022-06-15 04:53:17",
+      "score": 2,
+      "num_children": 0,
+      "replies": []
+    },
+    {
+      "id": "icdkbfq",
+      "text": "Every hole is a goal",
+      "timestamp": "2022-06-14 20:59:50",
+      "score": 1,
+      "num_children": 0,
+      "author": 107466,
+      "replies": []
+    },
+    {
+      "id": "icdld3u",
+      "text": "ESLs and Canadians BTFO by AI",
+      "timestamp": "2022-06-14 21:07:19",
+      "score": 1,
+      "num_children": 0,
+      "author": 386054,
+      "replies": []
+    },
+    {
+      "id": "icdlssy",
+      "text": "How could it possibly be bottomless. He's the bottom.",
+      "timestamp": "2022-06-14 21:10:32",
+      "score": 1,
+      "num_children": 1,
+      "author": 129895,
+      "replies": [
+        {
+          "id": "icdpta0",
+          "text": "That\u2019s the joke.jpg",
+          "timestamp": "2022-06-14 21:40:49",
+          "score": 1,
+          "num_children": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icdt2xg",
+      "text": "Skill issue",
+      "timestamp": "2022-06-14 22:06:04",
+      "score": 1,
+      "num_children": 0,
+      "author": 82233,
+      "replies": []
+    },
+    {
+      "id": "ice049b",
+      "text": "Anon couldn't keep his hole bottomless, because he got topped",
+      "timestamp": "2022-06-14 23:02:57",
+      "score": 1,
+      "num_children": 0,
+      "replies": []
+    },
+    {
+      "id": "ice1k7y",
+      "text": "This would be a good D&D session.",
+      "timestamp": "2022-06-14 23:15:02",
+      "score": 1,
+      "num_children": 0,
+      "author": 168330,
+      "replies": []
+    },
+    {
+      "id": "iceclwr",
+      "text": "Website?",
+      "timestamp": "2022-06-15 00:45:40",
+      "score": 1,
+      "num_children": 2,
+      "replies": [
+        {
+          "id": "icee0vq",
+          "text": "I linked it in another comment",
+          "timestamp": "2022-06-15 00:57:29",
+          "score": 1,
+          "num_children": 1,
+          "author": 266379,
+          "replies": [
+            {
+              "id": "icefu1m",
+              "text": "Could've took you less effort to type the website rather than write this comment.",
+              "timestamp": "2022-06-15 01:12:33",
+              "score": 2,
+              "num_children": 1,
+              "replies": [
+                {
+                  "id": "icefz95",
+                  "text": "Couldn\u2019t remember the link",
+                  "timestamp": "2022-06-15 01:13:45",
+                  "score": 3,
+                  "num_children": 0,
+                  "author": 266379,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "idip1td",
+          "text": "OpenAI",
+          "timestamp": "2022-06-24 03:54:51",
+          "score": 1,
+          "num_children": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "icel97o",
+      "text": "Easy answer is to make it a requirement to not wear pants while in the pit. Bottomless pit achieved.",
+      "timestamp": "2022-06-15 01:57:41",
+      "score": 1,
+      "num_children": 0,
+      "author": 63565,
+      "replies": []
+    },
+    {
+      "id": "ices5f7",
+      "text": "Based and Bottomless Pit Pilled!",
+      "timestamp": "2022-06-15 02:55:44",
+      "score": 1,
+      "num_children": 0,
+      "author": 116583,
+      "replies": []
+    },
+    {
+      "id": "icexddx",
+      "text": "But this begs the question though, how can the bottomless pit supervisor be sure that the pit he was checking was really bottomless?",
+      "timestamp": "2022-06-15 03:42:05",
+      "score": 1,
+      "num_children": 0,
+      "replies": []
+    },
+    {
+      "id": "icfwppb",
+      "text": "Reminds me of the golden age of shitposting.",
+      "timestamp": "2022-06-15 11:12:26",
+      "score": 1,
+      "num_children": 0,
+      "author": 234642,
+      "replies": []
+    },
+    {
+      "id": "icgarrc",
+      "text": "y is this funny?",
+      "timestamp": "2022-06-15 13:26:20",
+      "score": 1,
+      "num_children": 0,
+      "author": 51785,
+      "replies": []
+    },
+    {
+      "id": "icgile2",
+      "text": "Anon passes the Turing test",
+      "timestamp": "2022-06-15 14:25:53",
+      "score": 1,
+      "num_children": 0,
+      "author": 293592,
+      "replies": []
+    },
+    {
+      "id": "icgn5ns",
+      "text": "\\>be me\r  \n\\>be lawyer\r  \n\\>get called to defend some guy who killed a bunch of people\r  \n\\>tell him he's fucked\r  \n\\>he tells me to look into the case more\r  \n\\>find out he was framed\r  \n\\>get him off\r  \n\\>he thanks me\r  \n\\>become friends with him\r  \n\\>one day he invites me to his house\r  \n\\>it's a trap\r  \n\\>he ties me up\r  \n\\>tells me he's going to kill me\r  \n\\>I'm about to die when the police burst in and save me\r  \n\\> turns out he was the real killer all along",
+      "timestamp": "2022-06-15 14:58:22",
+      "score": 1,
+      "num_children": 0,
+      "author": 365425,
+      "replies": []
+    },
+    {
+      "id": "icgwi0y",
+      "text": "Then who was bottom?",
+      "timestamp": "2022-06-15 16:02:18",
+      "score": 1,
+      "num_children": 0,
+      "author": 111133,
+      "replies": []
+    },
+    {
+      "id": "ichh37e",
+      "text": "Proof AI is sentient, this is honest to God the funniest post on this site so far",
+      "timestamp": "2022-06-15 18:21:53",
+      "score": 1,
+      "num_children": 0,
+      "replies": []
+    },
+    {
+      "id": "icimq5k",
+      "text": "I'm drunk af yo wtf",
+      "timestamp": "2022-06-15 23:21:07",
+      "score": 1,
+      "num_children": 0,
+      "author": 20979,
+      "replies": []
+    },
+    {
+      "id": "ict7cme",
+      "text": "which ai/site/app is this?",
+      "timestamp": "2022-06-18 07:59:39",
+      "score": 1,
+      "num_children": 1,
+      "author": 400298,
+      "replies": [
+        {
+          "id": "idip3zc",
+          "text": "GPT-3",
+          "timestamp": "2022-06-24 03:55:26",
+          "score": 1,
+          "num_children": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "idg9tw4",
+      "text": "Why is AI so funny \ud83d\ude02",
+      "timestamp": "2022-06-23 17:01:00",
+      "score": 1,
+      "num_children": 0,
+      "author": 183673,
+      "replies": []
+    },
+    {
+      "id": "id4g9oc",
+      "text": "Fuck off with posting greentext only redditors find this dogshit funny",
+      "timestamp": "2022-06-21 00:15:28",
+      "score": 0,
+      "num_children": 0,
+      "author": 182019,
+      "replies": []
+    }
+  ]
+}
